@@ -1,0 +1,29 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apples",
+      "price": 2.99
+    },
+    {
+      "id": 2,
+      "name": "Bananas",
+      "price": 3.99
+    },
+    {
+      "id": 3,
+      "name": "Kiwis",
+      "price": 2.49
+    },
+    {
+      "id": 4,
+      "name": "Oranges",
+      "price": 5.0
+    },
+    {
+      "id": 5,
+      "name": "Cherries",
+      "price": "6.50 per kg"
+    }
+  ]
+}
