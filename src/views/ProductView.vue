@@ -6,11 +6,15 @@
 
 <script>
 export default {
-    name: 'Vue3ProductView',
+    name: 'products',
 
     data() {
         return {
-            
+            products : [
+                {
+                    
+                }
+            ]
         };
     },
 
@@ -24,6 +28,6 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
 </style>

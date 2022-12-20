@@ -2,9 +2,9 @@
   <nav>
     <router-link to="/">Home</router-link> 💖
     <router-link to="/products">Products</router-link> 💖
-    <router-link to="/about">About</router-link> 
+    <router-link to="/about">About</router-link>
   </nav>
-  <router-view/>
+  <router-view />
 </template>
 
 <style>
@@ -13,7 +13,10 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #e300c4;
+  background-color:mediumorchid;
+  text-align: center;
+  overflow: hidden;
 }
 
 nav {
@@ -22,10 +25,10 @@ nav {
 
 nav a {
   font-weight: bold;
-  color: #2c3e50;
+  color: #5c00dc;
 }
 
 nav a.router-link-exact-active {
-  color: #42b983;
+  color: #1b0d21;
 }
 </style>
